@@ -4,6 +4,7 @@ poms/**/.settings/
 poms/**/target/
 poms/**/tests/
 poms/**/src/
+poms/**/temp/
 poms/**/*.classpath
 poms/**/*.project
 poms/**/*.bak
